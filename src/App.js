@@ -91,7 +91,7 @@ class App extends Component {
                 window.$secondaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            className="flag"
           >
             <span
               className="iconify language-icon mr-5"
@@ -107,11 +107,11 @@ class App extends Component {
                 window.$primaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            className="flag"
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
+              data-icon="twemoji-flag-for-flag-vietnam"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>

@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hey there",
+      "description": "👋 I'm Thảo Nguyễn. I'm an enthusiastic Web/Mobile developer from Hanoi, Vietnam. I am excited about tackling the hard problems in technology. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,196 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Medical Booking System",
+        "startDate": "2021",
+        "description": "Want to schedule an appoinment with the hospital but you don't want to wait in line? Worry no more. Here is your online booking medical system. In this project, I'm the Backend Team Lead and the Deployment of the application.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/medical-booking/p1.png",
+          "images/portfolio/medical-booking/p2.png",
+          "images/portfolio/medical-booking/p3.png",
+          "images/portfolio/medical-booking/p4.png",
+          "images/portfolio/medical-booking/p5.png",
+          "images/portfolio/medical-booking/p6.png",
+          "images/portfolio/medical-booking/p7.png",
+          "images/portfolio/medical-booking/p8.png",
+          "images/portfolio/medical-booking/p9.png",
+          "images/portfolio/medical-booking/p10.png",
+          "images/portfolio/medical-booking/p11.png",
+          "images/portfolio/medical-booking/p12.png",
+          "images/portfolio/medical-booking/p13.png",
+          "images/portfolio/medical-booking/p14.png"
         ],
-        "url": "",
+        "url": "https://github.com/npthao1312/medical-management-website",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Music Player",
+        "startDate": "2020",
+        "description": "Offline, listen to your mobile's songs. Online, stream and dowload songs for free.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/music-player/p1.png",
+          "images/portfolio/music-player/p2.png",
+          "images/portfolio/music-player/p3.png",
+          "images/portfolio/music-player/p4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/npthao1312/OnlineMusicPlayer",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-android-plain",
+            "name": "Android"
           }
         ]
-      }
+      },
+      {
+        "title": "Data Scraping and Visualization of Lung Cancer",
+        "startDate": "2020",
+        "description": "We collect and scrape data of lung cancer from many different websites using Python. The crawled data are visualized in a web interface.",
+        "images": [
+          "images/portfolio/lung-cancer-web/p1.png",
+          "images/portfolio/lung-cancer-web/p2.png",
+          "images/portfolio/lung-cancer-web/p3.png"
+        ],
+        "url": "https://github.com/npthao1312/CTLungCancerWeb",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Maptivist",
+        "startDate": "2020",
+        "description": "We are now facing a lot more critical problems that we have ever before in the human history. Luckily, a long with that, we have also seen a significant rise in people’s interest in social activism. More and more people participate in community events and show their interest in the social goods. Nevertheless, there is no known event-promotion platform for cause-driven and activist activities only. Moreover, have you ever found yourself overwhelmed on Eventbrite or Facebook event and unable to find activist events of your interest? Maptivist is here to solve that!",
+        "images": [
+          "images/portfolio/maptivist/p1.png",
+          "images/portfolio/maptivist/p2.jpg",
+          "images/portfolio/maptivist/p3.jpg",
+          "images/portfolio/maptivist/p4.jpg"
+        ],
+        "url": "https://devpost.com/software/techacks-sdrxvh",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+        },
+        {
+          "title": "GreenUs",
+          "startDate": "2020",
+          "description": "GreenUs is a web-based gardening app. Our ambition is to give users great experiences with their plants and spread the passion for planting tree to all the people from every ages. We will not only provide useful information about plants but also work as a diary to keep memories about your little friends.",
+          "images": [
+            "images/portfolio/greenus/p1.png",
+            "images/portfolio/greenus/p2.jpg",
+            "images/portfolio/greenus/p3.jpg",
+            "images/portfolio/greenus/p4.jpg",
+            "images/portfolio/greenus/p5.jpg"
+          ],
+          "url": "https://github.com/npthao1312/Green-Us",
+          "technologies": [
+            {
+              "class": "devicon-nodejs-plain",
+              "name": "NodeJS"
+            },
+            {
+              "class": "devicon-html5-plain",
+              "name": "HTML"
+            },
+            {
+              "class": "devicon-css3-plain",
+              "name": "CSS"
+            }
+          ]
+
+      },
+      {
+        "title": "Speaker Recognition",
+        "startDate": "2020",
+        "description": "Speaker Recognition with GUI, written in Python. The Algorithms we use are Mel-Frequency Cepstral Coefficient (MFCC) Model: Gaussian Mixture Model (GMM). The percentage correctly identified speaker by the system is 90%.",
+        "images": [
+          "images/portfolio/speaker-recognition/p1.png",
+          "images/portfolio/speaker-recognition/p2.jpg",
+          "images/portfolio/speaker-recognition/p3.jpg"
+        ],
+        "url": "https://github.com/npthao1312/speaker-recognition-py3",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          }
+        ]
+
+    }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "SheCodes Vietnam",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "9.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "MindX Technology",
+        "title": "Fullstack Developer / Teaching Assistant",
+        "years": "05.2016 - 08.2018",
         "mainTech": [
-          "Angular 7/8"
+          "NodeJS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "Python",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Linux systems",
+          "Deployment",
+          "Angular 8"
         ]
       }
     ]
