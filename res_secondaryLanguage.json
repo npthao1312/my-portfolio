@@ -1,115 +1,206 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Xin chào",
+      "description": "👋 Mình là Thảo Nguyễn. Mình là một Full Stack Web/Mobile developer năng động ở Hà Nội. Mình rất hào hứng với việc giải quyết các vấn đề khó khăn trong công nghệ.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Về Mình",
+        "projects": "Các dự án mình đã tham gia",
+        "skills": "Kỹ năng",
+        "experience": "Kinh nghiệm"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Đặt lịch Phòng khám",
+        "startDate": "2021",
+        "description": "Muốn đặt lịch khám với bệnh viện nhưng bạn không muốn xếp hàng chờ đợi? Đừng lo lắng nữa. Đây là hệ thống đặt phòng y tế trực tuyến của bạn. Trong dự án này, mình là Trưởng nhóm Backend và phụ trách Deploy.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/medical-booking/p1.png",
+          "images/portfolio/medical-booking/p2.png",
+          "images/portfolio/medical-booking/p3.png",
+          "images/portfolio/medical-booking/p4.png",
+          "images/portfolio/medical-booking/p5.png",
+          "images/portfolio/medical-booking/p6.png",
+          "images/portfolio/medical-booking/p7.png",
+          "images/portfolio/medical-booking/p8.png",
+          "images/portfolio/medical-booking/p9.png",
+          "images/portfolio/medical-booking/p10.png",
+          "images/portfolio/medical-booking/p11.png",
+          "images/portfolio/medical-booking/p12.png",
+          "images/portfolio/medical-booking/p13.png",
+          "images/portfolio/medical-booking/p14.png"
         ],
-        "url": "",
+        "url": "https://github.com/npthao1312/medical-management-website",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Ứng dụng nghe nhạc trực tuyến",
+        "startDate": "2020",
+        "description": "Nghe và tải nhạc trực tuyến lẫn ngoại tuyến, hoàn toàn miễn phí.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/music-player/p1.png",
+          "images/portfolio/music-player/p2.png",
+          "images/portfolio/music-player/p3.png",
+          "images/portfolio/music-player/p4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/npthao1312/OnlineMusicPlayer",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-android-plain",
+            "name": "Android"
           }
         ]
-      }
+      },
+      {
+        "title": "Thu thập dữ liệu và minh họa về ung thư phổi",
+        "startDate": "2020",
+        "description": "Chúng mình thu thập và thu thập dữ liệu về ung thư phổi từ nhiều trang web khác nhau bằng Python. Dữ liệu đã thu thập được hiển thị trong giao diện web.",
+        "images": [
+          "images/portfolio/lung-cancer-web/p1.png",
+          "images/portfolio/lung-cancer-web/p2.png",
+          "images/portfolio/lung-cancer-web/p3.png"
+        ],
+        "url": "https://github.com/npthao1312/CTLungCancerWeb",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Maptivist",
+        "startDate": "2020",
+        "description": "Chúng ta hiện đang phải đối mặt với rất nhiều vấn đề nghiêm trọng hơn mà chúng ta từng gặp phải trong lịch sử loài người. May mắn thay, trong một thời gian dài, chúng tôi cũng đã thấy sự quan tâm của mọi người đối với hoạt động xã hội tăng lên đáng kể. Ngày càng có nhiều người tham gia vào các sự kiện cộng đồng và thể hiện sự quan tâm của họ đối với hàng hóa xã hội. Tuy nhiên, không có nền tảng quảng bá sự kiện nào được biết đến chỉ dành cho các hoạt động vì mục tiêu và hoạt động. Hơn nữa, bạn đã bao giờ thấy mình bị choáng ngợp trên Eventbrite hoặc sự kiện Facebook và không thể tìm thấy các sự kiện hoạt động mà bạn quan tâm? Maptivist ở đây để giải quyết điều đó!",
+        "images": [
+          "images/portfolio/maptivist/p1.png",
+          "images/portfolio/maptivist/p2.jpg",
+          "images/portfolio/maptivist/p3.jpg",
+          "images/portfolio/maptivist/p4.jpg"
+        ],
+        "url": "https://devpost.com/software/techacks-sdrxvh",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+        },
+        {
+          "title": "GreenUs",
+          "startDate": "2020",
+          "description": "GreenUs là một ứng dụng làm vườn dựa trên web. Tham vọng của chúng tôi là mang đến cho người dùng những trải nghiệm tuyệt vời với cây trồng của họ và truyền niềm đam mê trồng cây đến mọi người ở mọi lứa tuổi. Chúng tôi sẽ không chỉ cung cấp những thông tin hữu ích về thực vật mà còn như một cuốn nhật ký lưu giữ những kỉ niệm về những người bạn nhỏ của bạn.",
+          "images": [
+            "images/portfolio/greenus/p1.png",
+            "images/portfolio/greenus/p2.jpg",
+            "images/portfolio/greenus/p3.jpg",
+            "images/portfolio/greenus/p4.jpg",
+            "images/portfolio/greenus/p5.jpg"
+          ],
+          "url": "https://github.com/npthao1312/Green-Us",
+          "technologies": [
+            {
+              "class": "devicon-nodejs-plain",
+              "name": "NodeJS"
+            },
+            {
+              "class": "devicon-html5-plain",
+              "name": "HTML"
+            },
+            {
+              "class": "devicon-css3-plain",
+              "name": "CSS"
+            }
+          ]
+
+      },
+      {
+        "title": "Nhận dạng giọng nói",
+        "startDate": "2020",
+        "description": "Nhận dạng giọng nói với GUI, được viết bằng Python. Các thuật toán chúng mình sử dụng là Mô hình hệ số tần số sóng siêu âm (MFCC): Mô hình hỗn hợp Gaussian (GMM). Tỷ lệ giọng nói được hệ thống xác định chính xác là 90%.",
+        "images": [
+          "images/portfolio/speaker-recognition/p1.png",
+          "images/portfolio/speaker-recognition/p2.jpg",
+          "images/portfolio/speaker-recognition/p3.jpg"
+        ],
+        "url": "https://github.com/npthao1312/speaker-recognition-py3",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          }
+        ]
+
+    }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "SheCodes Vietnam",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "9.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "MindX Technology",
+        "title": "Fullstack Developer / Teaching Assistant",
+        "years": "05.2016 - 08.2018",
         "mainTech": [
-          "Angular 7/8"
+          "NodeJS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "Python",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Linux systems",
+          "Deployment",
+          "Angular 8"
         ]
       }
     ]
