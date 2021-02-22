@@ -15,20 +15,20 @@
         "startDate": "2021",
         "description": "Want to schedule an appoinment with the hospital but you don't want to wait in line? Worry no more. Here is your online booking medical system. In this project, I'm the Backend Team Lead and the Deployment of the application.",
         "images": [
-          "images/portfolio/medical-booking/p1.png",
-          "images/portfolio/medical-booking/p2.png",
-          "images/portfolio/medical-booking/p3.png",
-          "images/portfolio/medical-booking/p4.png",
-          "images/portfolio/medical-booking/p5.png",
-          "images/portfolio/medical-booking/p6.png",
-          "images/portfolio/medical-booking/p7.png",
-          "images/portfolio/medical-booking/p8.png",
-          "images/portfolio/medical-booking/p9.png",
-          "images/portfolio/medical-booking/p10.png",
-          "images/portfolio/medical-booking/p11.png",
-          "images/portfolio/medical-booking/p12.png",
-          "images/portfolio/medical-booking/p13.png",
-          "images/portfolio/medical-booking/p14.png"
+          "/my-portfolio/images/portfolio/medical-booking/p1.png",
+          "/my-portfolio/images/portfolio/medical-booking/p2.png",
+          "/my-portfolio/images/portfolio/medical-booking/p3.png",
+          "/my-portfolio/images/portfolio/medical-booking/p4.png",
+          "/my-portfolio/images/portfolio/medical-booking/p5.png",
+          "/my-portfolio/images/portfolio/medical-booking/p6.png",
+          "/my-portfolio/images/portfolio/medical-booking/p7.png",
+          "/my-portfolio/images/portfolio/medical-booking/p8.png",
+          "/my-portfolio/images/portfolio/medical-booking/p9.png",
+          "/my-portfolio/images/portfolio/medical-booking/p10.png",
+          "/my-portfolio/images/portfolio/medical-booking/p11.png",
+          "/my-portfolio/images/portfolio/medical-booking/p12.png",
+          "/my-portfolio/images/portfolio/medical-booking/p13.png",
+          "/my-portfolio/images/portfolio/medical-booking/p14.png"
         ],
         "url": "https://github.com/npthao1312/medical-management-website",
         "technologies": [
@@ -43,6 +43,10 @@
           {
             "class": "devicon-java-plain",
             "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain-wordmark",
+            "name": "MySQL"
           }
         ]
       },
@@ -51,10 +55,10 @@
         "startDate": "2020",
         "description": "Offline, listen to your mobile's songs. Online, stream and dowload songs for free.",
         "images": [
-          "images/portfolio/music-player/p1.png",
-          "images/portfolio/music-player/p2.png",
-          "images/portfolio/music-player/p3.png",
-          "images/portfolio/music-player/p4.png"
+          "/my-portfolio/images/portfolio/music-player/p1.png",
+          "/my-portfolio/images/portfolio/music-player/p2.png",
+          "/my-portfolio/images/portfolio/music-player/p3.png",
+          "/my-portfolio/images/portfolio/music-player/p4.png"
         ],
         "url": "https://github.com/npthao1312/OnlineMusicPlayer",
         "technologies": [
@@ -73,9 +77,9 @@
         "startDate": "2020",
         "description": "We collect and scrape data of lung cancer from many different websites using Python. The crawled data are visualized in a web interface.",
         "images": [
-          "images/portfolio/lung-cancer-web/p1.png",
-          "images/portfolio/lung-cancer-web/p2.png",
-          "images/portfolio/lung-cancer-web/p3.png"
+          "/my-portfolio/images/portfolio/lung-cancer-web/p1.png",
+          "/my-portfolio/images/portfolio/lung-cancer-web/p2.png",
+          "/my-portfolio/images/portfolio/lung-cancer-web/p3.png"
         ],
         "url": "https://github.com/npthao1312/CTLungCancerWeb",
         "technologies": [
@@ -98,10 +102,10 @@
         "startDate": "2020",
         "description": "We are now facing a lot more critical problems that we have ever before in the human history. Luckily, a long with that, we have also seen a significant rise in people’s interest in social activism. More and more people participate in community events and show their interest in the social goods. Nevertheless, there is no known event-promotion platform for cause-driven and activist activities only. Moreover, have you ever found yourself overwhelmed on Eventbrite or Facebook event and unable to find activist events of your interest? Maptivist is here to solve that!",
         "images": [
-          "images/portfolio/maptivist/p1.png",
-          "images/portfolio/maptivist/p2.jpg",
-          "images/portfolio/maptivist/p3.jpg",
-          "images/portfolio/maptivist/p4.jpg"
+          "/my-portfolio/images/portfolio/maptivist/p1.png",
+          "/my-portfolio/images/portfolio/maptivist/p2.jpg",
+          "/my-portfolio/images/portfolio/maptivist/p3.jpg",
+          "/my-portfolio/images/portfolio/maptivist/p4.jpg"
         ],
         "url": "https://devpost.com/software/techacks-sdrxvh",
         "technologies": [
@@ -124,11 +128,11 @@
           "startDate": "2020",
           "description": "GreenUs is a web-based gardening app. Our ambition is to give users great experiences with their plants and spread the passion for planting tree to all the people from every ages. We will not only provide useful information about plants but also work as a diary to keep memories about your little friends.",
           "images": [
-            "images/portfolio/greenus/p1.png",
-            "images/portfolio/greenus/p2.jpg",
-            "images/portfolio/greenus/p3.jpg",
-            "images/portfolio/greenus/p4.jpg",
-            "images/portfolio/greenus/p5.jpg"
+            "/my-portfolio/images/portfolio/greenus/p1.png",
+            "/my-portfolio/images/portfolio/greenus/p2.png",
+            "/my-portfolio/images/portfolio/greenus/p3.png",
+            "/my-portfolio/images/portfolio/greenus/p4.png",
+            "/my-portfolio/images/portfolio/greenus/p5.png"
           ],
           "url": "https://github.com/npthao1312/Green-Us",
           "technologies": [
@@ -143,6 +147,10 @@
             {
               "class": "devicon-css3-plain",
               "name": "CSS"
+            },
+            {
+              "class": "devicon-mongodb-plain-wordmark",
+              "name": "MongoDB"
             }
           ]
 
@@ -152,22 +160,22 @@
         "startDate": "2020",
         "description": "Speaker Recognition with GUI, written in Python. The Algorithms we use are Mel-Frequency Cepstral Coefficient (MFCC) Model: Gaussian Mixture Model (GMM). The percentage correctly identified speaker by the system is 90%.",
         "images": [
-          "images/portfolio/speaker-recognition/p1.png",
-          "images/portfolio/speaker-recognition/p2.jpg",
-          "images/portfolio/speaker-recognition/p3.jpg"
+          "/my-portfolio/images/portfolio/speaker-recognition/p1.png",
+          "/my-portfolio/images/portfolio/speaker-recognition/p2.png",
+          "/my-portfolio/images/portfolio/speaker-recognition/p3.png"
         ],
         "url": "https://github.com/npthao1312/speaker-recognition-py3",
         "technologies": [
           {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-html-plain",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
+            "class": "devicon-css3-plain",
             "name": "CSS"
           }
         ]
