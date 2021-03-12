@@ -15,20 +15,20 @@
         "startDate": "2021",
         "description": "Muốn đặt lịch khám với bệnh viện nhưng bạn không muốn xếp hàng chờ đợi? Đừng lo lắng nữa. Đây là hệ thống đặt phòng y tế trực tuyến của bạn. Trong dự án này, mình là Trưởng nhóm Backend và phụ trách Deploy.",
         "images": [
-          "/my-portfolio/images/portfolio/medical-booking/p1.png",
-          "/my-portfolio/images/portfolio/medical-booking/p2.png",
-          "/my-portfolio/images/portfolio/medical-booking/p3.png",
-          "/my-portfolio/images/portfolio/medical-booking/p4.png",
-          "/my-portfolio/images/portfolio/medical-booking/p5.png",
-          "/my-portfolio/images/portfolio/medical-booking/p6.png",
-          "/my-portfolio/images/portfolio/medical-booking/p7.png",
-          "/my-portfolio/images/portfolio/medical-booking/p8.png",
-          "/my-portfolio/images/portfolio/medical-booking/p9.png",
-          "/my-portfolio/images/portfolio/medical-booking/p10.png",
-          "/my-portfolio/images/portfolio/medical-booking/p11.png",
-          "/my-portfolio/images/portfolio/medical-booking/p12.png",
-          "/my-portfolio/images/portfolio/medical-booking/p13.png",
-          "/my-portfolio/images/portfolio/medical-booking/p14.png"
+          "/images/portfolio/medical-booking/p1.png",
+          "/images/portfolio/medical-booking/p2.png",
+          "/images/portfolio/medical-booking/p3.png",
+          "/images/portfolio/medical-booking/p4.png",
+          "/images/portfolio/medical-booking/p5.png",
+          "/images/portfolio/medical-booking/p6.png",
+          "/images/portfolio/medical-booking/p7.png",
+          "/images/portfolio/medical-booking/p8.png",
+          "/images/portfolio/medical-booking/p9.png",
+          "/images/portfolio/medical-booking/p10.png",
+          "/images/portfolio/medical-booking/p11.png",
+          "/images/portfolio/medical-booking/p12.png",
+          "/images/portfolio/medical-booking/p13.png",
+          "/images/portfolio/medical-booking/p14.png"
         ],
         "url": "https://github.com/npthao1312/medical-management-website",
         "technologies": [
@@ -55,10 +55,10 @@
         "startDate": "2020",
         "description": "Nghe và tải nhạc trực tuyến lẫn ngoại tuyến, hoàn toàn miễn phí.",
         "images": [
-          "/my-portfolio/images/portfolio/music-player/p1.png",
-          "/my-portfolio/images/portfolio/music-player/p2.png",
-          "/my-portfolio/images/portfolio/music-player/p3.png",
-          "/my-portfolio/images/portfolio/music-player/p4.png"
+          "/images/portfolio/music-player/p1.png",
+          "/images/portfolio/music-player/p2.png",
+          "/images/portfolio/music-player/p3.png",
+          "/images/portfolio/music-player/p4.png"
         ],
         "url": "https://github.com/npthao1312/OnlineMusicPlayer",
         "technologies": [
@@ -77,9 +77,9 @@
         "startDate": "2020",
         "description": "Chúng mình thu thập và thu thập dữ liệu về ung thư phổi từ nhiều trang web khác nhau bằng Python. Dữ liệu đã thu thập được hiển thị trong giao diện web.",
         "images": [
-          "/my-portfolio/images/portfolio/lung-cancer-web/p1.png",
-          "/my-portfolio/images/portfolio/lung-cancer-web/p2.png",
-          "/my-portfolio/images/portfolio/lung-cancer-web/p3.png"
+          "/images/portfolio/lung-cancer-web/p1.png",
+          "/images/portfolio/lung-cancer-web/p2.png",
+          "/images/portfolio/lung-cancer-web/p3.png"
         ],
         "url": "https://github.com/npthao1312/CTLungCancerWeb",
         "technologies": [
@@ -102,10 +102,10 @@
         "startDate": "2020",
         "description": "Chúng ta hiện đang phải đối mặt với rất nhiều vấn đề nghiêm trọng hơn mà chúng ta từng gặp phải trong lịch sử loài người. May mắn thay, trong một thời gian dài, chúng tôi cũng đã thấy sự quan tâm của mọi người đối với hoạt động xã hội tăng lên đáng kể. Ngày càng có nhiều người tham gia vào các sự kiện cộng đồng và thể hiện sự quan tâm của họ đối với hàng hóa xã hội. Tuy nhiên, không có nền tảng quảng bá sự kiện nào được biết đến chỉ dành cho các hoạt động vì mục tiêu và hoạt động. Hơn nữa, bạn đã bao giờ thấy mình bị choáng ngợp trên Eventbrite hoặc sự kiện Facebook và không thể tìm thấy các sự kiện hoạt động mà bạn quan tâm? Maptivist ở đây để giải quyết điều đó!",
         "images": [
-          "/my-portfolio/images/portfolio/maptivist/p1.png",
-          "/my-portfolio/images/portfolio/maptivist/p2.png",
-          "/my-portfolio/images/portfolio/maptivist/p3.png",
-          "/my-portfolio/images/portfolio/maptivist/p4.png"
+          "/images/portfolio/maptivist/p1.png",
+          "/images/portfolio/maptivist/p2.png",
+          "/images/portfolio/maptivist/p3.png",
+          "/images/portfolio/maptivist/p4.png"
         ],
         "url": "https://devpost.com/software/techacks-sdrxvh",
         "technologies": [
@@ -128,11 +128,11 @@
           "startDate": "2020",
           "description": "GreenUs là một ứng dụng làm vườn dựa trên web. Tham vọng của chúng tôi là mang đến cho người dùng những trải nghiệm tuyệt vời với cây trồng của họ và truyền niềm đam mê trồng cây đến mọi người ở mọi lứa tuổi. Chúng tôi sẽ không chỉ cung cấp những thông tin hữu ích về thực vật mà còn như một cuốn nhật ký lưu giữ những kỉ niệm về những người bạn nhỏ của bạn.",
           "images": [
-            "/my-portfolio/images/portfolio/greenus/p1.png",
-            "/my-portfolio/images/portfolio/greenus/p2.png",
-            "/my-portfolio/images/portfolio/greenus/p3.png",
-            "/my-portfolio/images/portfolio/greenus/p4.png",
-            "/my-portfolio/images/portfolio/greenus/p5.png"
+            "/images/portfolio/greenus/p1.png",
+            "/images/portfolio/greenus/p2.png",
+            "/images/portfolio/greenus/p3.png",
+            "/images/portfolio/greenus/p4.png",
+            "/images/portfolio/greenus/p5.png"
           ],
           "url": "https://github.com/npthao1312/Green-Us",
           "technologies": [
@@ -160,9 +160,9 @@
         "startDate": "2020",
         "description": "Nhận dạng giọng nói với GUI, được viết bằng Python. Các thuật toán chúng mình sử dụng là Mô hình hệ số tần số sóng siêu âm (MFCC): Mô hình hỗn hợp Gaussian (GMM). Tỷ lệ giọng nói được hệ thống xác định chính xác là 90%.",
         "images": [
-          "/my-portfolio/images/portfolio/speaker-recognition/p1.png",
-          "/my-portfolio/images/portfolio/speaker-recognition/p2.png",
-          "/my-portfolio/images/portfolio/speaker-recognition/p3.png"
+          "/images/portfolio/speaker-recognition/p1.png",
+          "/images/portfolio/speaker-recognition/p2.png",
+          "/images/portfolio/speaker-recognition/p3.png"
         ],
         "url": "https://github.com/npthao1312/speaker-recognition-py3",
         "technologies": [
