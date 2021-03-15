@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Thảo Nguyễn",
-      "titles": [ "Full-stack Web Developer", "Mobile App Developer", "Android App Developer" ],
+      "titles": [ "Full-stack Web Developer", "Front-end Web Developer", "Back-end Web Developer", "Android App Developer" ],
       "social": [
         {
           "name": "github",
@@ -15,8 +15,13 @@
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/thao-nguyen-009177125/",
+          "url": "https://www.linkedin.com/in/thao-nguyen-work/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "online resume",
+          "url": "https://resume.io/r/g4AFmjC4Q",
+          "class": "fab fa-file"
         }
       ],
       "image": "profile_pic.png"
